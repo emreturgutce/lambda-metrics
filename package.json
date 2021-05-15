@@ -1,0 +1,10 @@
+{
+  "name": "lambda-metrics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "emreturgutce <emrebursalee@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
